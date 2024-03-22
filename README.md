@@ -11,68 +11,83 @@ I encourage you to poke around my projects as I continue to add to my portfolio.
 <div align="center">
 <table>
 <tr>
-<!-- First Row, Cells with Text Left-Justified and Spacing After Each Section -->
+
 <td valign="top" width="33%" align="left">
 
-### Languages 💻
-- Python
-- JavaScript
-- HTML/CSS
-<br><br>
+<h3 align="center">Languages 💻</h3>
+<ul>
+<li>Python</li>
+<li>JavaScript</li>
+<li>HTML/CSS</li>
+</ul>
+<br>
 
-</td><td valign="top" width="33%" align="left">
+</td>
+<td valign="top" width="33%" align="left">
 
-### Data Analysis 📊
-- numpy
-- pandas
-- scipy
-- matplotlib
-- seaborn
-- statsmodels
-<br><br>
+<h3 align="center">Data Analysis 📊</h3>
+<ul>
+<li>numpy</li>
+<li>pandas</li>
+<li>scipy</li>
+<li>matplotlib</li>
+<li>seaborn</li>
+<li>statsmodels</li>
+</ul>
+<br>
 
-</td><td valign="top" width="33%" align="left">
+</td>
+<td valign="top" width="33%" align="left">
 
-### Machine Learning 🤖
-- scikit-learn
-- tensorflow
-- keras
-- surprise
-<br><br>
+<h3 align="center">Machine Learning 🤖</h3>
+<ul>
+<li>scikit-learn</li>
+<li>tensorflow</li>
+<li>keras</li>
+<li>surprise</li>
+</ul>
+<br>
 
 </td>
 </tr>
 <tr>
-<!-- Second Row, Cells with Text Left-Justified and Spacing After Each Section -->
 <td valign="top" width="33%" align="left">
 
-### Graphic Design 🎨
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe InDesign
-- Microsoft Powerpoint
-- Canva
-- Final Cut Pro
-<br><br>
+<h3 align="center">Graphic Design 🎨</h3>
+<ul>
+<li>Adobe Photoshop</li>
+<li>Adobe Illustrator</li>
+<li>Adobe InDesign</li>
+<li>Microsoft Powerpoint</li>
+<li>Canva</li>
+<li>Final Cut Pro</li>
+</ul>
+<br>
 
-</td><td valign="top" width="33%" align="left">
+</td>
+<td valign="top" width="33%" align="left">
 
-### Ancillary Business Applications 📈
-- AirTable
-- Adobe Acrobat Pro
-- Microsoft Word
-- Microsoft Excel
-- Microsoft Outlook
-- Microsoft Teams
-<br><br>
+<h3 align="center">Ancillary Business Applications 📈</h3>
+<ul>
+<li>AirTable</li>
+<li>Adobe Acrobat Pro</li>
+<li>Microsoft Word</li>
+<li>Microsoft Excel</li>
+<li>Microsoft Outlook</li>
+<li>Microsoft Teams</li>
+</ul>
+<br>
 
-</td><td valign="top" width="33%" align="left">
+</td>
+<td valign="top" width="33%" align="left">
 
-### Working on it... 😉
-- SQL
-- PowerBI
-- Tableau
-<br><br>
+<h3 align="center">Working on it... 😉</h3>
+<ul>
+<li>SQL</li>
+<li>PowerBI</li>
+<li>Tableau</li>
+</ul>
+<br>
 
 </td>
 </tr>
@@ -82,7 +97,7 @@ I encourage you to poke around my projects as I continue to add to my portfolio.
 
 ![Certificates Banner](/images/Github_Banner_Certificates.png)
 
-### Artificial Intelligence & Programming Coursework
+### Artificial Intelligence & Programming Coursework 📚
 * **Artificial Intelligence: Implications for Business Strategy** - MIT Sloan School of Management
 * **Machine Learning for Big Data and Text Processing: Foundations** - MIT Professional Education
 * **Learn Python 3** - Codecademy Pro
@@ -91,7 +106,7 @@ I encourage you to poke around my projects as I continue to add to my portfolio.
 * **Designing Efficient Deep Learning Systems** - MIT Professional Education
 * **Applied Data Science Program: Leveraging AI for Effective Decision-Making** - MIT Professional Education
 
-### Leadership Competencies
+### Leadership Competencies 🌟 
 * **Rising Leaders Program** - Women In Cable Telecommunications (WICT)
 * **Inclusive Leadership** - LinkedIn Learning
 * **Driving Organizational Accountability for Diversity, Equity, Inclusion, and Belonging** - LinkedIn Learning
