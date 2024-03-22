@@ -1,4 +1,4 @@
-[![GitHub Banner Heading](/amandaangelico/images/Github_Banner_Heading.png)](https://www.linkedin.com/in/amanda-angelico)
+[![GitHub Banner Heading](/images/Github_Banner_Heading.png)](https://www.linkedin.com/in/amanda-angelico)
 
 Welcome, visitors! I’m a business professional who is endlessly curious about evolving technologies and their unique (and cumbersome) intersection with copyright law. It’s an exciting and difficult time for someone with my background; most of my experience has been in rights and clearances across legal departments within media & entertainment, protecting and monetizing IP (Sony Music, NBC, McCann, A+E Networks, etc.) Now, with advancements in GAI, the global regulatory landscape is shifting, and rights management, risk, and compliance procedures will have to follow suit.
 
@@ -6,7 +6,7 @@ I recognized the need to upskill in a technical direction over the past two year
 
 I encourage you to poke around my projects as I continue to add to my portfolio. For starters, you'll see recommender system projects I built during the MIT Professional Education Applied Data Science Program. More to follow! Also, please feel free to connect with me on LinkedIn. I’m always open to feedback, so don’t be shy if you have any.
 
-![Skills Banner](/amandaangelico/images/Github_Banner_Skills.png)
+![Skills Banner](/images/Github_Banner_Skills.png)
 
 ### Languages 💻
 * Python
@@ -50,7 +50,7 @@ Graphic Design 🎨
 * PowerBI
 * Tableau
   
-![Certificates Banner](/amandaangelico/images/Github_Banner_Certificates.png)
+![Certificates Banner](/images/Github_Banner_Certificates.png)
 
 ### Artificial Intelligence & Programming Coursework
 * **Artificial Intelligence: Implications for Business Strategy** - MIT Sloan School of Management
