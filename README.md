@@ -8,48 +8,78 @@ I encourage you to poke around my projects as I continue to add to my portfolio.
 
 ![Skills Banner](/images/Github_Banner_Skills.png)
 
+<div align="center">
+<table>
+<tr>
+<!-- First Row, Cells with Text Left-Justified and Spacing After Each Section -->
+<td valign="top" width="33%" align="left">
+
 ### Languages 💻
-* Python
-* JavaScript
-* HTML/CSS
+- Python
+- JavaScript
+- HTML/CSS
+<br><br>
+
+</td><td valign="top" width="33%" align="left">
 
 ### Data Analysis 📊
-* numpy
-* pandas
-* scipy
-* matplotlib
-* seaborn
-* statsmodels
+- numpy
+- pandas
+- scipy
+- matplotlib
+- seaborn
+- statsmodels
+<br><br>
+
+</td><td valign="top" width="33%" align="left">
 
 ### Machine Learning 🤖
-* scikit-learn
-* tensorflow
-* keras
-* surprise
+- scikit-learn
+- tensorflow
+- keras
+- surprise
+<br><br>
 
-Graphic Design 🎨
+</td>
+</tr>
+<tr>
+<!-- Second Row, Cells with Text Left-Justified and Spacing After Each Section -->
+<td valign="top" width="33%" align="left">
 
-* Adobe Photoshop
-* Adobe Illustrator
-* Adobe InDesign
-* Microsoft Powerpoint
-* Canva
-* Final Cut Pro
+### Graphic Design 🎨
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe InDesign
+- Microsoft Powerpoint
+- Canva
+- Final Cut Pro
+<br><br>
+
+</td><td valign="top" width="33%" align="left">
 
 ### Ancillary Business Applications 📈
+- AirTable
+- Adobe Acrobat Pro
+- Microsoft Word
+- Microsoft Excel
+- Microsoft Outlook
+- Microsoft Teams
+<br><br>
 
-* AirTable
-* Adobe Acrobat Pro
-* Microsoft Word
-* Microsoft Excel
-* Microsoft Outlook
-* Microsoft Teams
+</td><td valign="top" width="33%" align="left">
 
 ### Working on it... 😉
-* SQL
-* PowerBI
-* Tableau
-  
+- SQL
+- PowerBI
+- Tableau
+<br><br>
+
+</td>
+</tr>
+</table>
+</div>
+
+
 ![Certificates Banner](/images/Github_Banner_Certificates.png)
 
 ### Artificial Intelligence & Programming Coursework
