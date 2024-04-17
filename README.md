@@ -1,14 +1,17 @@
 [![GitHub Banner Heading](/images/Github_Banner_Heading.png)](https://www.linkedin.com/in/amanda-angelico)
 
-Welcome! I’m a business professional who is endlessly curious about evolving technologies and their unique (and cumbersome) intersection with copyright law. It's an exciting yet challenging time to work in a legal department within media & entertainment—with advancements in GAI, the global regulatory landscape is shifting, and rights mgmt., risk, privacy and compliance procedures will have to follow suit. Most of my experience has been in rights and clearances, negotiating contracts and protecting and monetizing IP (Sony Music, NBC, McCann, A+E Networks, etc.). I've increasingly recognized the invaluable role that an understanding of both legal intricacies and cutting-edge technologies plays in not just adapting to, but also shaping the future of media and entertainment.
+## A Little Bit About Me...
+
+- **Media & Entertainment Expertise**: I’ve spent over a decade working in legal departments at music, advertising, and television companies, all with a focus on content licensing and rights management.  I pair these experiences with a strong interest in evolving technologies that have potential to enhance legal workflows. 
 
 ![Themed Line](/images/Line_1.png)
 
-Over the past two years, I've been upskilling in a more technical direction. NLP technologies were already on my radar since I work in a legal capacity, but I really wanted to challenge myself to understand ML on a more granular level, including ANNs/CNNs/RNNs. I wanted to understand the underlying mathematics and build machine learning models. So…that’s what I did. This has given me a technical advantage in business because I am able to convey problems or ideas to my technology and legal counterparts in a way that they better understand. The only downside has been recognizing how few of my peers have these blended skills and understanding there will be a strong need for professionals like me in the next several years.
+- **Strategic Partnerships**: I leverage relationships to enhance business operations, often finding that the best solutions come from collaborative initiatives.  I’ve been privileged to develop a strong network across the industry, whether that be with record labels, music publishers, television companies, or SaaS partners.
 
 ![Themed Line](/images/Line_2.png)
 
-I encourage you to poke around my projects as I continue to add to my portfolio. For starters, you'll see recommender system projects I built during the MIT Professional Education Applied Data Science Program. More to follow! Also, please feel free to connect with me on LinkedIn. I’m always open to feedback, so don’t be shy if you have any.
+- **Professional Development**: I prioritize continuous education to stay informed amidst the ever-changing digital landscape. I've been working towards a certification in AI/ML through MIT, and I'm actively applying to master's programs in Data Analytics to enhance my understanding of machine learning applications.
+
 
 <br>
 
@@ -125,5 +128,3 @@ I encourage you to poke around my projects as I continue to add to my portfolio.
 ![Themed Line](/images/Line_1.png)
 
 Each course has contributed to either my technical programming skills or strategic leadership competencies. Feel free to ask about how I've applied these learnings in my work!
-
-Next stop...Master's program in Analytics, followed by a JD once the law catches up to emerging tech (classic problem).
